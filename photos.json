@@ -1,0 +1,32 @@
+[
+  {
+    "type": "placeholder",
+    "emoji": "🐱",
+    "caption": "Add your first cat photo here!"
+  },
+  {
+    "type": "placeholder",
+    "emoji": "🌸",
+    "caption": "A photo of her garden/plants goes great here"
+  },
+  {
+    "type": "placeholder",
+    "emoji": "🧵",
+    "caption": "The famous blue stitch plushie deserves a spot"
+  },
+  {
+    "type": "placeholder",
+    "emoji": "🩺",
+    "caption": "A doctor-mode photo could go here"
+  },
+  {
+    "type": "placeholder",
+    "emoji": "📷",
+    "caption": "Replace me with a real photo (see README)"
+  },
+  {
+    "type": "placeholder",
+    "emoji": "🎬",
+    "caption": "Replace me with a real video (see README)"
+  }
+]

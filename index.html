@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Happy Birthday, Goltu babai 🌸</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- floating petals/leaves background -->
+  <div class="petal-field" id="petalField" aria-hidden="true"></div>
+
+  <!-- peeking cat, corner mascot -->
+  <div class="peeking-cat" aria-hidden="true">🐱</div>
+
+  <!-- hidden surprise trigger -->
+  <button class="surprise-trigger" id="surpriseTrigger" title="psst...">
+    <span class="mascot-blue"></span>
+  </button>
+
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="eyebrow">a little corner of the internet, just for</p>
+      <h1>Goltu babai</h1>
+      <p class="subtitle">Happy Birthday 🌿🐾</p>
+      <p class="hero-note">made quietly, with a lot of love — no need to make a big fuss, just scroll at your own pace 💌</p>
+      <a href="#gallery" class="scroll-cue">↓ take a look, whenever you're ready</a>
+    </div>
+  </header>
+
+  <main>
+
+    <section id="gallery" class="section">
+      <h2>little moments</h2>
+      <p class="section-sub">a few of my favourite pictures of you</p>
+      <div class="gallery-grid" id="galleryGrid"></div>
+    </section>
+
+    <section id="videos" class="section alt">
+      <h2>little clips</h2>
+      <p class="section-sub">some moments that moved too much to be a photo</p>
+      <div class="gallery-grid" id="videoGrid"></div>
+    </section>
+
+    <section id="letter" class="section letter-section">
+      <h2>for you</h2>
+      <div class="letter-card">
+        <p>Dear Goltu babai,</p>
+        <p>
+          Happy birthday to someone who spends her days quietly taking care of everyone
+          else — patients, plants, that one very loyal blue Stitch on your shelf, and
+          every cat that has ever decided you were trustworthy (they're right, by the way).
+        </p>
+        <p>
+          You don't need a loud party to know you're loved. So here's a small, quiet
+          website instead — just photos, a couple of clips, and this note, for you to
+          look through on your own terms, in your own time, maybe with a cup of tea and
+          a cat in your lap.
+        </p>
+        <p>
+          Here's to another year of healing people, growing things, and being exactly as
+          much of an introvert as you want to be. Happy birthday. 🌸
+        </p>
+        <p class="signoff">— with love</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>made with 🌿 for Goltu babai · <span id="year"></span></p>
+  </footer>
+
+  <!-- surprise overlay -->
+  <div class="surprise-overlay" id="surpriseOverlay">
+    <div class="surprise-content">
+      <p>surprise 🎉 happy birthday, quietly, but with all my heart 🐱🌸🧵</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
