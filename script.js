@@ -126,3 +126,24 @@ surpriseTrigger.addEventListener('click', () => {
 surpriseOverlay.addEventListener('click', () => {
   surpriseOverlay.classList.remove('show');
 });
+/* ---------- background music ---------- */
+const musicToggle = document.getElementById('musicToggle');
+const bgMusic = document.getElementById('bgMusic');
+const musicIcon = document.getElementById('musicIcon');
+
+musicToggle.addEventListener('click', () => {
+  if (bgMusic.paused) {
+    bgMusic.play()
+      .then(() => {
+        musicIcon.textContent = '♫';
+        musicToggle.classList.add('playing');
+      })
+      .catch(() => {
+        console.warn('Could not play background music — check the URL in index.html.');
+      });
+  } else {
+    bgMusic.pause();
+    musicIcon.textContent = '♪';
+    musicToggle.classList.remove('playing');
+  }
+});
