@@ -5,7 +5,7 @@
     "caption": "Kitty babai"
   },
   {
-    "type": "placeholder",
+    "type": "video",
     "src": "https://res.cloudinary.com/wuatb3yt/video/upload/v1785060503/att.2l-Nnm01csVfbg9ywDwPAmH1YvUCISOJGBSqUZa56vc_aqnvzx.mp4",
     "caption": "A photo of her garden/plants goes great here"
   },
@@ -25,7 +25,7 @@
     "caption": "Replace me with a real photo (see README)"
   },
   {
-    "type": "placeholder",
+    "type": "video",
     "src": "https://res.cloudinary.com/wuatb3yt/video/upload/v1785060504/EF877213-6DD7-4B4D-A9B0-44AEDAC6CAED_nm2ma6.mp4",
     "caption": "Replace me with a real video (see README)"
   }
