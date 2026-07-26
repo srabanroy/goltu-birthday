@@ -81,7 +81,7 @@ async function loadMedia() {
     videoGrid.innerHTML = `
       <div class="gallery-item placeholder">
         <span class="ph-emoji">🎬</span>
-        <span class="ph-caption">Add a video clip in photos.json (type: "video")</span>
+        <span class="ph-caption">The Best Girlfriend in the world</span>
       </div>`;
   }
 }
