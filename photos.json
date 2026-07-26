@@ -1,27 +1,27 @@
 [
   {
-    "type": "video",
-    "src": "https://res.cloudinary.com/wuatb3yt/video/upload/v1785060503/att.2l-Nnm01csVfbg9ywDwPAmH1YvUCISOJGBSqUZa56vc_aqnvzx.mp4",
+    "type": "photos",
+    "src": "https://res.cloudinary.com/wuatb3yt/image/upload/v1785060502/att.QnP_ruohcprUhkgkePWqQOwLBnSCeAu8PMUF1wEIf5o_ssahjm.jpg",
     "caption": "Kitty babai"
   },
   {
-    "type": "placeholder",
+    "type": "photos",
     "emoji": "🌸",
     "caption": "A photo of her garden/plants goes great here"
   },
   {
-    "type": "placeholder",
-    "emoji": "🧵",
+    "type": "photos",
+    "src": "https://res.cloudinary.com/wuatb3yt/image/upload/v1785060503/FullSizeRender_szc2pu.jpg",
     "caption": "The famous blue stitch plushie deserves a spot"
   },
   {
-    "type": "placeholder",
-    "emoji": "🩺",
+    "type": "photos",
+    "src": "https://res.cloudinary.com/wuatb3yt/image/upload/v1785060503/att.pEe5t-RtbaMcwOkSFtMZ6sESMWqubY_Jaaxlqg5VN0A_k60amg.jpg",
     "caption": "A doctor-mode photo could go here"
   },
   {
-    "type": "placeholder",
-    "emoji": "📷",
+    "type": "photos",
+    "src": "https://res.cloudinary.com/wuatb3yt/image/upload/v1785060502/IMG_1960_fmdqzd.jpg",
     "caption": "Replace me with a real photo (see README)"
   },
   {
